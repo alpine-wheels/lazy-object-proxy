@@ -1,1 +1,1 @@
-lazy-object-proxy==1.5.0
+lazy-object-proxy==1.5.1
